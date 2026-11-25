@@ -1,0 +1,14 @@
+{
+  "name": "issueflow",
+  "owner": {
+    "name": "XiriuS",
+    "url": "https://www.issueflow.cloud"
+  },
+  "plugins": [
+    {
+      "name": "issueflow",
+      "source": "./plugins/issueflow",
+      "description": "Run your IssueFlow agent workflows from Claude: see your board, what's waiting on you, and answer holds."
+    }
+  ]
+}

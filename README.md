@@ -16,7 +16,17 @@ From your chat agent you can read your board, see what's waiting on you, underst
 |---|---|
 | Any MCP client (Claude, ChatGPT, VS Code, Cursor…) | Available: add the URL above as a remote MCP server |
 | MCP Registry | Listed as `io.github.xirius-ai/issueflow` |
-| Claude plugin | In preparation |
+| Claude Code plugin | Available: see below |
+
+## Claude Code plugin
+
+The `issueflow` plugin connects Claude Code to IssueFlow and adds three skills: **board** (what's running and what's waiting on you), **respond** (answer a hold or gate, after you confirm) and **get-started** (setup and "how do I" questions, answered from the docs).
+
+```
+/plugin install issueflow --marketplace xirius-ai/issueflow-plugins
+```
+
+The first time Claude uses IssueFlow, it opens a browser window to sign you in with GitHub.
 
 ## Help
 

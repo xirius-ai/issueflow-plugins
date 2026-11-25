@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "issueflow": {
+      "type": "http",
+      "url": "https://api.issueflow.cloud/mcp"
+    }
+  }
+}
