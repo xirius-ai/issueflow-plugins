@@ -4,6 +4,7 @@
     "name": "XiriuS",
     "url": "https://www.issueflow.cloud"
   },
+  "description": "Plugins that bring IssueFlow, workflow orchestration for AI coding agents, into Claude.",
   "plugins": [
     {
       "name": "issueflow",
