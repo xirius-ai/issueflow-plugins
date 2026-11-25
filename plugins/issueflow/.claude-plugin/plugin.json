@@ -10,10 +10,17 @@
   },
   "homepage": "https://www.issueflow.cloud",
   "repository": "https://github.com/xirius-ai/issueflow-plugins",
-  "keywords": ["issueflow", "ai-agents", "workflow", "github-issues", "mcp"],
+  "keywords": [
+    "issueflow",
+    "ai-agents",
+    "workflow",
+    "github-issues",
+    "mcp"
+  ],
   "icon": "./logo.png",
   "documentationUrl": "https://portal.issueflow.cloud/docs",
   "supportUrl": "https://www.issueflow.cloud/support/",
   "privacyPolicyUrl": "https://www.issueflow.cloud/privacy/",
-  "termsOfServiceUrl": "https://www.issueflow.cloud/terms/"
+  "termsOfServiceUrl": "https://www.issueflow.cloud/terms/",
+  "license": "MIT"
 }
